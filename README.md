@@ -1,2 +1,2 @@
 # neural-networks-karpathy-course
-Excercises from anrej karpathys neural nets course
+Excercises from andrej karpathys neural nets course
